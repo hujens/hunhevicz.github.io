@@ -1,0 +1,62 @@
+  [[main]]
+  name = "News"
+  identifier = "news"
+  weight = 100
+  url = "/"
+
+  #[[main]]
+  #name = "Posts"
+  #weight = 200
+  #identifier = "posts"
+  #url = "/post/"
+
+  #[[main]]
+  #name = "Projects"
+  #weight = 200
+  #identifier = "portfolio"
+  #url = "/portfolio/"
+
+  [[main]]
+  name = "Research"
+  weight = 300
+  identifier = "research"
+
+  [[main]]
+  name = "Publications"
+  weight = 310
+  identifier = "publications"
+  url = "/publications/"
+  parent = "research"  
+
+  [[main]]
+  name = "Talks"
+  weight = 320
+  identifier = "talks"
+  url = "/talks/"
+  parent = "research"
+
+   [[main]]
+  name = "Teaching"
+  weight = 330
+  identifier = "teaching"
+  url = "/teaching/"
+  parent = "research"
+
+   [[main]]
+  name = "Miscellaneous"
+  weight = 340
+  identifier = "miscellaneous"
+  url = "/misc/"
+  parent = "research"
+
+  [[main]]
+  name = "About"
+  weight = 400
+  identifier = "about"
+  url = "/about/"
+
+  #[[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/imprint/"
