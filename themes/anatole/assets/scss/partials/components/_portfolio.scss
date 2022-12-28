@@ -21,7 +21,7 @@
 
     @include desktop_and_print {
       @include themed() {
-        border: t('border');
+        /*border: t('border');*/
       }
     }
   }
@@ -63,7 +63,7 @@
         }
 
         @include desktop_and_print {
-          width: 60%;
+          width: 80%;
           object-fit: contain;
           max-width: none;
           border-radius: 0.5em;
@@ -100,7 +100,7 @@
       border-radius: 0.5em;
 
       @include themed() {
-        box-shadow: t('shadow');
+        box-shadow: t('shadow')
       }
     }
 
@@ -117,7 +117,7 @@
           background: t('primary-lighter');
         }
         border-bottom: 0px;
-        width: 60%;
+        width: 75%;
         margin-top: -48px;
       }
     }
