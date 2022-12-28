@@ -10,11 +10,11 @@
   #identifier = "posts"
   #url = "/post/"
 
-  #[[main]]
-  #name = "Projects"
-  #weight = 200
-  #identifier = "portfolio"
-  #url = "/portfolio/"
+  [[main]]
+  name = "Projects"
+  weight = 200
+  identifier = "portfolio"
+  url = "/portfolio/"
 
   [[main]]
   name = "Research"

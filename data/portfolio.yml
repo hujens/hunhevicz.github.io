@@ -1,0 +1,22 @@
+portfolioitems:
+  # portfolio category
+  #- title: "Test"
+  - portfolioitem:
+      - name: no1s1 labs
+        image: '/images/portfolio/no1s1.png'
+        link: https://no1s1labs.org/
+        linktext: 'Visit website'
+        description: 'With no1s1 labs I explore the concept and potential of Web3 in the built environment besides my day to day research as a PostDoc. Our first prototype is no1s1, a self-owning meditation pod.'
+        #tags:
+          #- Tag 1
+          #- Tag 2
+        status: 'Ongoing'
+        start: '2022'
+      - name: Nelly's Quartierkafi
+        image: '/images/portfolio/nellys.png'
+        link: /post/_post2/
+        linktext: 'Read more'
+        description: 'Together with three friends I founded a coffee shop in the city of Zurich. After we had built up the locality from the ground and operated it for a while, we sold it to a new owner in 2022.'
+        status: 'Finished'
+        start: '2018'
+        end: '2022'
