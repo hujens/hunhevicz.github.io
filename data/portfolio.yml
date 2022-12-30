@@ -13,7 +13,7 @@ portfolioitems:
         status: 'Ongoing'
         start: '2022'
       - name: Nelly's Quartierkafi
-        image: '/images/portfolio/nellys.png'
+        image: '/images/portfolio/nellys.jpg'
         link: /post/_post2/
         linktext: 'Read more'
         description: 'Together with three friends I founded a coffee shop in the city of Zurich. After we had built up the locality from the ground and operated it for a while, we sold it in 2022.'
