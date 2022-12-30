@@ -63,7 +63,7 @@
         }
 
         @include desktop_and_print {
-          width: 80%;
+          width: 100%;
           object-fit: contain;
           max-width: none;
           border-radius: 0.5em;
@@ -97,7 +97,7 @@
 
     @include desktop_and_print {
       padding: 48px;
-      border-radius: 0.5em;
+      /*border-radius: 0.5em;*/
 
       @include themed() {
         box-shadow: t('shadow')
@@ -117,7 +117,7 @@
           background: t('primary-lighter');
         }
         border-bottom: 0px;
-        width: 75%;
+        width: 90%;
         margin-top: -48px;
       }
     }
