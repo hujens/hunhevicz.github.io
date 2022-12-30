@@ -5,7 +5,7 @@ author = "Jens Hunhevicz"
 date = "2022-04-22"
 +++
 
-After 4 years, I am proud that I successfully defended my doctoral dissertation entitled [“Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry”](https://doi.org/10.3929/ethz-b-000575095). This thesis would not have been possible without the many people who have accompanied me along the way. I would like to thank my supervisor, examiners, colleagues, students, family and friends for their support!
+I successfully defended my doctoral dissertation entitled [“Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry”](https://doi.org/10.3929/ethz-b-000575095). This achievement would not have been possible without the many people who have accompanied me along the way. I would like to thank my supervisor, examiners, colleagues, students, family and friends for their support!
 
 {{< figure src="/images/posts/post1/defense2.jpg" alt="image" caption="Celebration after the defense at Nelly's with the research group." class="medium" >}}
 
