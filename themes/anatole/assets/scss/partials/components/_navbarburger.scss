@@ -9,13 +9,13 @@
   &__line {
     display: block;
     height: 1px;
-    left: calc(50% - 8px);
+    left: calc(50% - 17px);
     position: absolute;
     transform-origin: center;
     transition-duration: 86ms;
     transition-property: background-color, opacity, transform;
     transition-timing-function: ease-out;
-    width: 16px;
+    width: 17px;
 
     @include themed() {
       background-color: t('primary');
