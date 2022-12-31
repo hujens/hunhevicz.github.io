@@ -16,7 +16,7 @@ First, the thesis assesses the need for blockchain by matching technical capabil
 
 Second, the prototypes demonstrate new possibilities for blockchain-​based cross-​phase and cross-​trade incentive mechanisms[^4], but also aspects of cryptoeconomic mechanisms for economic machine participation with no1s1 - a self-​owning house[^5].
 
-{{< figure src="/images/posts/post1/defense.jpg" alt="image" caption="Celebration after the defense at Nelly's with the research group." class="large" >}}
+{{< figure src="/images/posts/post1/defense.jpg" alt="image" caption="Celebration at Nelly's with the research group after the defense." class="large" >}}
 
 [^1]: JJ Hunhevicz, T Dounas, DM Hall; *"The Promise of Blockchain for the Construction Industry: A Governance Lens"*; <a target="_blank" rel="noopener noreferrer" href="http://dx.doi.org/10.1007/978-981-19-3759-0_2"> Springer</a> / <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/publication/363711482_The_Promise_of_Blockchain_for_the_Construction_Industry_A_Governance_Lens"><i class="ai ai-open-access"></i> ResearchGate</a>; 2022.
 [^2]: JJ Hunhevicz, DM Hall; <i>"Do you need a blockchain in construction? Use case categories and decision framework for DLT design options"</i>; <a target="_blank" rel="noopener noreferrer" href="https://www.sciencedirect.com/science/article/pii/S147403462030063X"><i class="ai ai-open-access"></i> Advanced Engineering Informatics</a>; 2020.
