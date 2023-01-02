@@ -6,7 +6,7 @@ date = "2022-04-24"
 thumbnail= "images/posts/post1/cover.png"
 +++
 
-I successfully defended my doctoral dissertation on 22nd of April.
+I successfully defended my doctoral dissertation on the 22nd of April.
 
 This achievement would not have been possible without the many people who have accompanied me along the way. I would like to thank my supervisor, examiners, colleagues, students, family and friends for their support!
 
