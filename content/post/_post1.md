@@ -2,15 +2,15 @@
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Doctoral Examination"
 author = "Jens Hunhevicz"
-date = "2022-04-22"
+date = "2022-04-24"
 thumbnail= "images/posts/post1/cover.png"
 +++
 
-I successfully defended my doctoral dissertation entitled ["Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry"](https://doi.org/10.3929/ethz-b-000575095).
+I successfully defended my doctoral dissertation on 22nd of April.
 
 This achievement would not have been possible without the many people who have accompanied me along the way. I would like to thank my supervisor, examiners, colleagues, students, family and friends for their support!
 
-Overall, the thesis outlines and investigates blockchain as a technology to enable in the long run new forms of incentives and organization in the construction industry using smart contracts to encode institutional coordination[^1]. It extends the state of the art research on blockchain for construction management both with novel theoretical work and proof of concepts.
+The thesis is titled ["Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry"](https://doi.org/10.3929/ethz-b-000575095). Overall, it outlines and investigates blockchain as a technology to enable in the long run new forms of incentives and organization in the construction industry using smart contracts to encode institutional coordination[^1]. It extends the state of the art research on blockchain for construction management both with novel theoretical work and proof of concepts.
 
 First, the thesis assesses the need for blockchain by matching technical capabilities of blockchain with proposed use cases in the construction industry[^2]. Moreover, it outlines how cryptoeconomic mechanisms align with the overall industry structure, and conceptualizes how they can be applied to collaborative project deliveries trough a lens of Common Pool Resource theory[^3].
 
