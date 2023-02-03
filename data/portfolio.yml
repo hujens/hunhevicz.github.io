@@ -6,7 +6,7 @@ portfolioitems:
         image: '/images/portfolio/no1s1.png'
         link: https://no1s1labs.org/
         linktext: 'Visit website'
-        description: 'With no1s1 labs I explore the concepts and potential of Web3 in the built environment besides my research as a PostDoc. Our prototype is no1s1, a self-owning meditation pod.'
+        description: 'With no1s1 labs I am exploring the concepts and potential of Web3 in the built environment alongside my postdoctoral research. Our prototype is no1s1, a self-owning meditation pod.'
         #tags:
           #- Tag 1
           #- Tag 2
@@ -16,7 +16,7 @@ portfolioitems:
         image: '/images/portfolio/nellys.jpg'
         link: /post/_post2/
         linktext: 'Read more'
-        description: 'Together with three friends I founded a coffee shop in the city of Zurich. After we had built up the locality from the ground and operated it for a while, we sold it in 2022.'
+        description: 'Together with three friends, I started a coffeehouse in the city of Zurich. After building the place from scratch and running it for a while, we sold it in 2022.'
         status: 'Finished'
         start: '2018'
         end: '2022'
