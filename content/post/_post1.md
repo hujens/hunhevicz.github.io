@@ -6,15 +6,15 @@ date = "2022-04-24"
 thumbnail= "images/posts/post1/cover.png"
 +++
 
-I successfully defended my doctoral dissertation on the 22nd of April.
+I successfully defended my doctoral thesis on 22nd of April.
 
-This achievement would not have been possible without the many people who have accompanied me along the way. I would like to thank my supervisor, examiners, colleagues, students, family and friends for their support!
+This achievement would not have been possible without the many people who have helped me along the way. I would like to thank my supervisors, examiners, colleagues, students, family and friends for their support.
 
-The thesis is titled ["Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry"](https://doi.org/10.3929/ethz-b-000575095). Overall, it outlines and investigates blockchain as a technology to enable in the long run new forms of incentives and organization in the construction industry using smart contracts to encode institutional coordination[^1]. It extends the state of the art research on blockchain for construction management both with novel theoretical work and proof of concepts.
+The thesis is entitled ["Exploring the Potential of Blockchain and Cryptoeconomics for the Construction Industry"](https://doi.org/10.3929/ethz-b-000575095). Overall, it outlines and investigates blockchain as a technology to enable new forms of incentives and organisation in the construction industry in the long term, using smart contracts to encode institutional coordination[^1]. It extends the state of the art research on blockchain for construction management with both novel theoretical work and proof of concepts.
 
-First, the thesis assesses the need for blockchain by matching technical capabilities of blockchain with proposed use cases in the construction industry[^2]. Moreover, it outlines how cryptoeconomic mechanisms align with the overall industry structure, and conceptualizes how they can be applied to collaborative project deliveries trough a lens of Common Pool Resource theory[^3].
+First, the thesis assesses the need for blockchain by matching the technical capabilities of blockchain with proposed use cases in the construction industry[^2]. It also outlines how cryptoeconomic mechanisms align with the overall structure of the industry, and conceptualises how they can be applied to collaborative project delivery through the lens of Common Pool Resource theory[^3].
 
-Second, the prototypes demonstrate new possibilities for blockchain-​based cross-​phase and cross-​trade incentive mechanisms[^4], but also aspects of cryptoeconomic mechanisms for economic machine participation with no1s1 - a self-​owning house[^5].
+Secondly, the prototypes demonstrate new possibilities for blockchain-based cross-phase and cross-trade incentive mechanisms[^4], but also aspects of cryptoeconomic mechanisms for economic machine participation with no1s1 - a self-owned house[^5].
 
 {{< figure src="/images/posts/post1/defense.jpg" alt="image" caption="Celebration at Nelly's with the research group after the defense." class="large" >}}
 
