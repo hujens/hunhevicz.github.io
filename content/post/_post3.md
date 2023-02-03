@@ -8,7 +8,7 @@ thumbnail= "images/posts/post3/no1s1AtWEF.png"
 
 No1s1 travelled to Davos for the World Economic Forum 2022.
 
-The prototype was exhibited over the course of three days at the [ETH Pavillion](https://ethz.ch/en/the-eth-zurich/global/eth-global-news-events/2021/12/rethinking-living-exhibition.html) under the theme of "Rethinking Living". The invitation followed a previous [ETH News Article](https://ethz.ch/en/news-and-events/eth-news/news/2021/10/a-small-house-raises-big-questions.html) explaining no1s1 and our research. For WEF the event organisers produced a short explanation video:
+The prototype was exhibited for three days at the [ETH Pavillion](https://ethz.ch/en/the-eth-zurich/global/eth-global-news-events/2021/12/rethinking-living-exhibition.html) under the theme "Rethinking Living". The invitation followed an earlier [ETH News](https://ethz.ch/en/news-and-events/eth-news/news/2021/10/a-small-house-raises-big-questions.html) article explaining no1s1 and our research. A short explanatory video was produced for the WEF:
 
 {{< vimeo_simple 657805500 >}}
 
