@@ -3,7 +3,7 @@ aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Doctoral Examination"
 author = "Jens Hunhevicz"
 date = "2022-04-24"
-thumbnail= "images/posts/post1/cover.png"
+thumbnail= "images/posts/post1/graduation.jpg"
 +++
 
 I successfully defended my doctoral thesis on 22nd of April.
