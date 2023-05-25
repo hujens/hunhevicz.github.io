@@ -8,6 +8,7 @@ author = "Jens Hunhevicz"
 
 | <!-- -->  |
 | ----------- |
+| May 2023; "The Promise of Blockchain for the Construction Industry - A Governance Lens"; archiDAO Podcast, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/live/bRNjL0Ep4HQ?feature=share&t=18"><i class="fab fa-youtube"></i> YouTube</a>, Virtual. |
 | July 2022; Together with Hongyang Wang, "From no1s1, a Self-Owning House to Decentralized Autonomous Spaces"; Web3 Gallery Lab - A Glimpse into the Future, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LKWg7UzarLI"><i class="fab fa-youtube"></i> YouTube</a>, Zurich. |
 | June 2022; "Blockchain Based Governance for the Construction Industry?"; <a target="_blank" rel="noopener noreferrer" href="https://www.constructionblockchain.org/calendar-1/2nd-research-workshop-8gt3t">3rd CBC Blockchain Research Workshop</a>, Amsterdam. |
 | Mai 2022; "Integrated Project Deliveries and Blockchain Based Governance"; <a target="_blank" rel="noopener noreferrer" href="https://aqmen365.com/blockchain-technology-for-smart-construction/">AQMEN365 - Blockchain Technology for SMART Construction</a>, <a target="_blank" rel="noopener noreferrer" href="https://informaconnect.com/blockchain-technology-for-smart-construction/on-demand-registration/"><i class="fab fa-youtube"></i> Watch on Demand</a>, Virtual. |
