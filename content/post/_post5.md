@@ -3,10 +3,10 @@ aliases = ["posts", "articles", "blog", "showcase", "docs"]
 title = "Building on Bitcoin Hackathon"
 author = "Jens Hunhevicz"
 date = "2023-03-07"
-thumbnail= "images/posts/post5/clarity_universe.png"
+thumbnail= "images/posts/post5/stacksshare.png"
 +++
 
-Our Web3 access prototype took 2nd place.
+Our Web3 access prototype *StacksShare* took 2nd place.
 
 <!--more-->
 
