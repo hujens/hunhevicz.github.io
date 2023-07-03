@@ -10,6 +10,6 @@ I am founding member of the new DAO Suisse association.
 
 <!--more-->
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.daosuisse.com/">DAO Suisse Association</a> was officially founded on 16 June. Embodying the spirit of Swiss participatory culture, DAO Suisse wants to make Switzerland the go-to place for DAOs globally.
+The association <a target="_blank" rel="noopener noreferrer" href="https://www.daosuisse.com/">DAO Suisse</a> was officially founded on June 16th. Embodying the spirit of Swiss participatory culture, DAO Suisse aims to make Switzerland the place to be for DAOs worldwide.
 
 {{< figure src="/images/posts/post8/foundingassembly.jpg" alt="image" caption="The founding members at the first DAO Suisse assembly." class="large" >}}
