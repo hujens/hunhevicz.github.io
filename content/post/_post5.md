@@ -14,5 +14,5 @@ The prototype demonstrates the use of role-based and token-based smart contract 
 
 Links for more information: 
 - <a target="_blank" rel="noopener noreferrer" href="https://github.com/dabuchera/web3-access/tree/master"><i class="fab fa-github"></i> Github Page of the Prototype</a>.
-- <a target="_blank" rel="noopener noreferrer" href="https://github.com/dabuchera/web3-access/tree/master">Conference Paper</a>.
+- <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/publications/conference/paper/?id=EC32023_217">Conference Paper</a>.
 - <a target="_blank" rel="noopener noreferrer" href="https://building-on-btc-hack.devpost.com/?ref_feature=challenge&ref_medium=your-open-hackathons&ref_content=Submissions+open">Building on Bitcoin Hackathon</a>.
