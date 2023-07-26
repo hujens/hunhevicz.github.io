@@ -8,6 +8,8 @@ author = "Jens Hunhevicz"
 
 | <!-- -->  |
 | ----------- |
+| July 2023; "Web3-based role and token data access: the case of building material passports"; <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/conference2023/">EC<sup>3</sup> 2023</a>; <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/BaDWGRmWETA"><i class="fab fa-youtube"></i> YouTube</a>, Crete Greece. |
+| July 2023; "Predicting recoverable material stock in buildings: using machine learning with demolition audit data as a case study"; <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/conference2023/">EC<sup>3</sup> 2023</a>; <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/-_y8qfQqiQo"><i class="fab fa-youtube"></i> YouTube</a>, Crete Greece. |
 | May 2023; "The Promise of Blockchain for the Construction Industry - A Governance Lens"; archiDAO Podcast, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/live/bRNjL0Ep4HQ?feature=share&t=18"><i class="fab fa-youtube"></i> YouTube</a>, Virtual. |
 | July 2022; Together with Hongyang Wang, "From no1s1, a Self-Owning House to Decentralized Autonomous Spaces"; Web3 Gallery Lab - A Glimpse into the Future, <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=LKWg7UzarLI"><i class="fab fa-youtube"></i> YouTube</a>, Zurich. |
 | June 2022; "Blockchain Based Governance for the Construction Industry?"; <a target="_blank" rel="noopener noreferrer" href="https://www.constructionblockchain.org/calendar-1/2nd-research-workshop-8gt3t">3rd CBC Blockchain Research Workshop</a>, Amsterdam. |
