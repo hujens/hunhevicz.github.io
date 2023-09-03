@@ -6,13 +6,11 @@ date = "2023-07-14"
 thumbnail= "images/posts/post9/crete.jpg"
 +++
 
-I (co-)authored four papers and presented two of them.
+It was really a great <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/conference2023/">conference</a>, where I presented our latest Web3 data access prototype.
 
 <!--more-->
 
-<a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/conference2023/">EC3 2023</a> was really a great conference, well organized, high quality talks, and a beautiful location. It was especially nice to catch up with the familiar and growing community of researchers in the field of computing in construction.
-
-I presented our latest research on *"Web3-based role and token data access: the case of building material passports"*, building a prototype to demonstrate and evaluate new possible ways to access data over the lifecycle of a built asset using blockchain and distributed data protocols.
+The paper *"Web3-based role and token data access: the case of building material passports"* evaluates a prototype for new possible ways to access data over the lifecycle of a built asset using blockchain and distributed data protocols.
 - J Hunhevicz, D Bucher, R Soman, M Honic, DM Hall, C De Wolf; *"Web3-based role and token data access: the case of building material passports"*; <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/publications/conference/paper/?id=EC32023_217"></i> EC<sup>3</sup> Proceedings</a>; <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/BaDWGRmWETA"><i class="fab fa-youtube"></i> YouTube</a>; 2023.
 
 {{< youtube BaDWGRmWETA >}}
