@@ -4,6 +4,10 @@ title = "ArchiDAO Podcast"
 author = "Jens Hunhevicz"
 date = "2023-05-12"
 thumbnail= "images/posts/post6/archiDAO_podcast.jpg"
+tags = [
+    "research",
+    "presentation"
+]
 +++
 
 I talked about the promise of blockchain for the construction industry.

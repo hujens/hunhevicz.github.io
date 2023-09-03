@@ -4,6 +4,10 @@ title = "New Paper Alert"
 author = "Jens Hunhevicz"
 date = "2023-06-14"
 thumbnail= "images/posts/post7/autocon_framework.jpg"
+tags = [
+    "research",
+    "publication"
+]
 +++
 
 We propose criteria for the adoption of dfab technology in construction.

@@ -4,6 +4,9 @@ title = "DAO Suisse Founded"
 author = "Jens Hunhevicz"
 date = "2023-06-27"
 thumbnail= "images/posts/post8/daosuisse.jpg"
+tags = [
+    "projects"
+]
 +++
 
 I am founding member of the new DAO Suisse association.

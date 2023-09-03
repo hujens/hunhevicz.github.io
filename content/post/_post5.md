@@ -4,6 +4,11 @@ title = "Building on Bitcoin Hackathon"
 author = "Jens Hunhevicz"
 date = "2023-03-07"
 thumbnail= "images/posts/post5/stacksshare.png"
+tags = [
+    "research",
+    "projects",
+    "fun"
+]
 +++
 
 Our Web3 access prototype *StacksShare* took 2nd place.

@@ -4,6 +4,10 @@ title = "no1s1 @ ETH Pavillion"
 author = "Jens Hunhevicz"
 date = "2022-05-25"
 thumbnail= "images/posts/post3/no1s1AtWEF.png"
+tags = [
+    "no1s1",
+    "projects"
+]
 +++
 
 No1s1 travelled to Davos for the World Economic Forum 2022.

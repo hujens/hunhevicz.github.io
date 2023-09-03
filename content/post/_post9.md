@@ -4,6 +4,11 @@ title = "EC3 Conference in Crete"
 author = "Jens Hunhevicz"
 date = "2023-07-14"
 thumbnail= "images/posts/post9/crete.jpg"
+tags = [
+    "research",
+    "presentation",
+    "publication"
+]
 +++
 
 It was really a great <a target="_blank" rel="noopener noreferrer" href="https://ec-3.org/conference2023/">conference</a>, where I presented our latest Web3 data access prototype.

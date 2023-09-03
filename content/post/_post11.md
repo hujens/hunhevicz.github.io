@@ -4,6 +4,10 @@ title = "NO1S1 @ HEK"
 author = "Jens Hunhevicz"
 date = "2023-09-01"
 thumbnail= "images/posts/post11/flyer2.png"
+tags = [
+    "no1s1",
+    "projects"
+]
 +++
 
 No1s1 traveled to Basel for the exhibition "Decentralized Web - Kunst auf der Blockchain".

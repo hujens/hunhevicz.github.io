@@ -4,6 +4,9 @@ title = "New PostDoc Position"
 author = "Jens Hunhevicz"
 date = "2022-10-10"
 thumbnail= "images/posts/post4/empa-cea.png"
+tags = [
+    "research"
+]
 +++
 
 In October I started a new postdoc position at EMPA and ETH Zurich.

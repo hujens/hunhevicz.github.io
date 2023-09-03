@@ -4,6 +4,10 @@ title = "Doctoral Examination"
 author = "Jens Hunhevicz"
 date = "2022-04-24"
 thumbnail= "images/posts/post1/graduation.jpg"
+tags = [
+    "PhD",
+    "research"
+]
 +++
 
 I successfully defended my doctoral thesis on 22nd of April.

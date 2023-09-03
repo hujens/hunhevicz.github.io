@@ -4,6 +4,10 @@ title = "Bye Bye Nelly's"
 author = "Jens Hunhevicz"
 date = "2022-06-01"
 thumbnail= "images/posts/post2/nellysLogo.jpg"
+tags = [
+    "projects",
+    "fun"
+]
 +++
 
 We sold our coffeehouse after building it and running it for four years.
