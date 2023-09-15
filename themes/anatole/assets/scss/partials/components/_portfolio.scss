@@ -5,9 +5,9 @@
   padding-bottom: 0px;
   padding-top: 48px;
 
-  @include desktop_and_print {
-    padding: 48px;
-  }
+  // @include desktop_and_print {
+  //   padding: 48px;
+  // }
 
   &::before {
     content: '';
@@ -95,14 +95,14 @@
       background-color: t('accent');
     }
 
-    @include desktop_and_print {
-      padding: 48px;
-      /*border-radius: 0.5em;*/
+    // @include desktop_and_print {
+    //   padding: 48px;
+    //   /*border-radius: 0.5em;*/
 
-      // @include themed() {
-      //   box-shadow: t('shadow')
-      // }
-    }
+    //   @include themed() {
+    //     box-shadow: t('shadow')
+    //   }
+    // }
 
     &--left,
     &--right {
