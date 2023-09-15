@@ -5,6 +5,11 @@
     background-color: t('accent');
   }
 
+  @include desktop_and_print {
+    // padding: 0 96px 0 0;
+    width: 87%;
+  }
+
   &__meta {
     display: flex;
     list-style: none;
@@ -194,21 +199,21 @@
         }
       }
 
-      // &.left {
-      //   @include desktop {
-      //     max-width: 50%;
+      &.left {
+        @include desktop {
+          max-width: 50%;
 
-      //     @include ltr {
-      //       float: left;
-      //       margin-right: 1.5em;
-      //     }
+          @include ltr {
+            float: left;
+            margin-right: 1.5em;
+          }
 
-      //     @include rtl {
-      //       float: right;
-      //       margin-left: 1.5em;
-      //     }
-      //   }
-      // }
+          @include rtl {
+            float: right;
+            margin-left: 1.5em;
+          }
+        }
+      }
     }
   }
 
