@@ -30,12 +30,15 @@
               {{ end }}
             </div>
           {{ end }}-->
+          <!-- <div
+          class="portfolio__description {{ if (modBool $i 2) }}
+            portfolio__description--left
+          {{ else }}
+            portfolio__description--right
+          {{ end }}"
+        > -->
           <div
-            class="portfolio__description {{ if (modBool $i 2) }}
-              portfolio__description--left
-            {{ else }}
-              portfolio__description--right
-            {{ end }}"
+            class="portfolio__description"
           >
             <h2>{{ .name | markdownify }}</h2>
             <ul class="portfolio__meta">

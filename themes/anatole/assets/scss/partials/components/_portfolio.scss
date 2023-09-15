@@ -99,9 +99,9 @@
       padding: 48px;
       /*border-radius: 0.5em;*/
 
-      @include themed() {
-        box-shadow: t('shadow')
-      }
+      // @include themed() {
+      //   box-shadow: t('shadow')
+      // }
     }
 
     &--left,
