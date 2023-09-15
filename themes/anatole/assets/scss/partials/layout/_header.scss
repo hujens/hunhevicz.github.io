@@ -2,13 +2,14 @@
   @include themed() {
     background-color: t('accent');
   }
-  width: 90%;
+  width:100%;
   position: fixed;
   z-index: 1;
   top: 0;
 
   @include desktop {
     position: sticky;
+    width: 73%;
 
     @include themed() {
       border-bottom: t('border');
