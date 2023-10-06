@@ -22,6 +22,6 @@ More information on <a target="_blank" rel="noopener noreferrer" href="https://w
 
 The following is a short promotional video of the exhibition:
 
- <video width="100%" controls>
+ <video width="100%" controls autoplay>
   <source src="https://cms.hek.ch/files/videos/HEK_world_short_corr_230911_web.mp4">
 </video>
