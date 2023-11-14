@@ -6,7 +6,9 @@ aliases = ["about"]
 author = "Jens Hunhevicz"
 +++
 
-I am a  postdoctoral researcher at Empa and ETH Zurich. I work with <a target="_blank" rel="noopener noreferrer" href="https://cea.ibi.ethz.ch/people/catherine_de_wolf.html">Catherine de Wolf</a> in the <a target="_blank" rel="noopener noreferrer" href="https://cea.ibi.ethz.ch/">Circular Engineering for Architecture Group</a>, and with <a target="_blank" rel="noopener noreferrer" href="https://www.empa.ch/web/s313/kristina-orehounig">Kristina Orehounig</a> in the <a target="_blank" rel="noopener noreferrer" href="https://www.empa.ch/web/s313">Urban Energy Systems Laboratory</a>.
+{{< figure src="/images/posts/post11/CBC_2023_2.jpg" alt="image" class="large" >}}
+
+I am a  postdoctoral researcher at Empa and ETH Zurich. I work with <a target="_blank" rel="noopener noreferrer" href="https://cea.ibi.ethz.ch/people/catherine_de_wolf.html">Catherine de Wolf</a> in the <a target="_blank" rel="noopener noreferrer" href="https://cea.ibi.ethz.ch/">Circular Engineering for Architecture Group</a>, and with <a target="_blank" rel="noopener noreferrer" href="https://sustec.ethz.ch/people/affiliates0/gmavromatidis.html">Georgios Mavromatidis</a> (former <a target="_blank" rel="noopener noreferrer" href="http://bpi.tuwien.ac.at/bpi/team/">Kristina Orehounig</a>) in the <a target="_blank" rel="noopener noreferrer" href="https://www.empa.ch/web/s313">Urban Energy Systems Laboratory</a>.
 
 I am interested in interdisciplinary research between the built environment and digitalization, in particular the impact of new technologies on the industry structure, processes and productivity. My current research focuses on the application and implementation of blockchain in the context of the built environment for lifecycle data management, supply chain integration processes, and innovative forms of system governance.
 
