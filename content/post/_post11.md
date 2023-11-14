@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "CBC Conference Hongkong"
+title = "CBC 2023 Conference"
 author = "Jens Hunhevicz"
 date = "2023-11-06"
 thumbnail= "images/posts/post11/CBC_2023.jpg"
@@ -11,8 +11,8 @@ tags = [
 ]
 +++
 
-Keynote and conference paper presentation.
+Keynote on IPD and blockchain; and paper on blockchain for a circular digital built environment.
 
 <!--more-->
 
-More information shortly.
+It was a great event in Hongkong with many informative presentations. More information, paper link, and presentation recordings shortly.
