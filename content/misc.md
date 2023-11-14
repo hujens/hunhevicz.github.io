@@ -8,6 +8,7 @@ author = "Jens Hunhevicz"
 
 | <!-- -->  |
 | ----------- |
+| November 2023; Jury member for the <a target="_blank" rel="noopener noreferrer" href="https://www.digitalrealestate.ch/anmeldung-digital-top-10-2024/">"Digital Top 10" 2024</a>, hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.digitalrealestate.ch/"> Digital Real Estate</a>. |
 | September 2023; no1s1 attended <a target="_blank" rel="noopener noreferrer" href="https://hek.ch/programm/ausstellungen/exploring-the-decentralized-web-art-on-the-blockchain">HEK</a> "Exploring the Decentralized Web - Kunst auf der Blockchain" Exhibition in Basel. |
 | November 2022; Jury member for the <a target="_blank" rel="noopener noreferrer" href="https://www.digitalrealestate.ch/anmeldung-digital-top-10-2023/">"Digital Top 10" 2023</a>, hosted by <a target="_blank" rel="noopener noreferrer" href="https://www.digitalrealestate.ch/"> Digital Real Estate</a>. |
 | May 2022; no1s1 attended <a target="_blank" rel="noopener noreferrer" href="https://ethz.ch/en/news-and-events/eth-news/news/2022/05/eth-at-wef-rethinking-living.html">World Economic Forum</a> in Davos. |
