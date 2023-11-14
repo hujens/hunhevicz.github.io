@@ -10,7 +10,9 @@ tags = [
 ]
 +++
 
-I successfully defended my doctoral thesis on 22nd of April.
+I successfully defended my doctoral thesis.
+
+<!--more-->
 
 This achievement would not have been possible without the many people who have helped me along the way. I would like to thank my supervisors, examiners, colleagues, students, family and friends for their support.
 
