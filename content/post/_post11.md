@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 
-Keynote on IPD and blockchain; and paper on blockchain for a circular digital built environment.
+Keynote and paper presentation at the Construction Blockchain Conference in Hongkong.
 
 <!--more-->
 
