@@ -1,6 +1,6 @@
 +++
 aliases = ["posts", "articles", "blog", "showcase", "docs"]
-title = "no1s1 @ ETH Pavillion"
+title = "no1s1 @ WEF"
 author = "Jens Hunhevicz"
 date = "2022-05-25"
 thumbnail= "images/posts/post3/no1s1AtWEF.png"
