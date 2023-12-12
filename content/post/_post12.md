@@ -14,6 +14,6 @@ Presentation on decentralized project delivery on the crypto commons.
 
 <!--more-->
 
-I am honored that our work has been selected for presentation at the <a target="_blank" rel="noopener noreferrer" href="https://project-leadership-eng.sydney.edu.au/2023-november-symposium/"> 3rd International Symposium on Project Leadership in a Changing World</a>. My presentation starts at around 58:30 minutes:
+I am honored that our work has been selected for presentation at the <a target="_blank" rel="noopener noreferrer" href="https://project-leadership-eng.sydney.edu.au/2023-november-symposium/"> 3rd International Symposium on Project Leadership in a Changing World</a>. My presentation starts at around 8:00 minutes:
 
-{{< youtube X3SryY-pVKk >}}
+{{< youtube 7Hl2QYElJCE >}}
